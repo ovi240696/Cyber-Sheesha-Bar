@@ -1,0 +1,122 @@
+img{     
+        padding:  30px;
+        height: 400px;
+        width: 1200px;
+}
+
+body{   
+      background-image: url("../images/pic2.jpg");
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+p{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+}
+h1 {
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif; 
+        color: lawngreen;
+        margin: -10px;  
+
+}
+
+h2 {
+        color: yellow;
+        display: block;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 40px;
+         
+}
+
+h3 {
+        font-size: 40px;
+        font-style: italic;
+
+
+}
+marquee 
+{ 
+        color:  blue;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        background-repeat: repeat;
+}
+
+.links:hover {
+        background-color: pink;
+       
+
+}
+
+li.links
+
+{
+        font-size: 20px;
+        border: 1px solid rgb(17, 250, 172);
+        padding: 6px; 
+        background-color: brown;
+        margin: none;
+        margin-left: 160px;
+
+
+
+}
+
+ul.lstyle {
+
+        list-style-type: none;
+        display: inline-flex;
+        padding: 5px;
+        margin: 5px;
+        
+}
+
+ul.l2 {
+
+        float: right;
+        padding: 50px;
+        margin-left:  
+        
+}       
+
+
+ul.links
+{
+        margin-left: 500px;
+}
+
+
+p {
+        font-family: 'Times New Roman', Times, serif;
+        size: 40px;
+        text-align: justify left;
+        color: aqua; 
+        display: block;
+        margin-bottom: -30px;
+}
+
+h2 {
+        color: yellow;
+        display: block;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+         
+}
+
+h3.l2 {
+        
+        
+        float: right;
+        display: inline-block;
+        margin-right: 800px;
+        margin-top: 40px;
+ 
+
+
+}
+ul.link1 {
+
+        font-size: 50px;
+}
